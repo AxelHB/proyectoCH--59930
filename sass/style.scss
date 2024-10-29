@@ -2,7 +2,7 @@
 * {
     margin: 0;
     padding: 0;
-    box-sizing: border-box;
+    box-sizing: content-box;
     text-decoration: none;
     list-style: none;
     color: black;
@@ -217,6 +217,3 @@ li {
     box-shadow: 15px 10px rgba(0, 0, 0, 0.558);
     transition: 1s;
 }
-
-
-
